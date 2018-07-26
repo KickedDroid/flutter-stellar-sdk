@@ -1,4 +1,6 @@
-# saturnpackage
+# Saturn Flutter SDK
+![alt text](https://preview.ibb.co/iL8VUT/planet.png)
+
 The Saturn open source SDK for ios and android using Flutter.
 
 ## Generate a Stellar KeyPair
